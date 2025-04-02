@@ -8,7 +8,7 @@
 🔹 **Experience:** Java Development Intern at YSAAS Infotech  
 🔹 **Soft Skills:** Leadership, Problem-solving, Communication, Teamwork  
 
-📄 **Resume: [View Resume](https://github.com/SAHIL102003/My-Resume/blob/main/Sahil_s_Resume%20(1).pdf)
+📄 **Resume:** [View Resume](https://github.com/SAHIL102003/My-Resume/blob/main/Sahil_s_Resume%20(1).pdf)
 
 📫 **Connect with me:**  
 - LinkedIn: [Sahil Gaikwad](https://www.linkedin.com/in/sahilgaikwad2610)  
