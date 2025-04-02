@@ -1,5 +1,4 @@
-
-**# Sahil Gaikwad - Resume**
+# Sahil Gaikwad - Resume
 
 👋 Hi, I'm **Sahil Gaikwad**,a final-year Computer Science Engineering student passionate about Java development, backend devlopment, and problem-solving.
 
